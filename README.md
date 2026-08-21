@@ -17,6 +17,13 @@ Atualmente operando os sistemas base a partir de São Paulo, Brasil. Sou estudan
 
 <br>
 
+### Se conecte comigo
+
+<a href="https://www.linkedin.com/in/marcelo-silva-46a0a2361/"> Linkedin </a>
+<br>
+<a href="https://www.instagram.com/marcelo_exped/"> Instagram </a>
+
+
 ### 💻 Terminal de Objetivos Atuais
 
 ```bash
@@ -26,3 +33,4 @@ root@github:~$ ./status_check.sh
 [+] Foco de Aprendizado: C#, Python, Angular, Fullstack e Arquitetura de Software
 [+] Missão: Desenvolver soluções tecnológicas que impactem o mundo real.
 root@github:~$ _
+
