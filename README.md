@@ -28,3 +28,9 @@ root@github:~$ ./status_check.sh
 [+] Foco de Aprendizado: Backend, Inteligência Artificial e Arquitetura de Software
 [+] Missão: Desenvolver soluções tecnológicas que impactem o mundo real.
 root@github:~$ _
+
+### ⚙️ Tech Stack & Ferramentas [Core Modules]
+
+Linguagens, Frameworks e Tecnologias de Uso Contínuo:
+
+[![Minhas Skills](https://skillicons.dev/icons?i=cs,python,angular,js,ts,html,css,nodejs,mysql,postgres,git,github,vscode&theme=dark)](https://skillicons.dev)
