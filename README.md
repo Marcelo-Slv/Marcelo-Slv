@@ -33,4 +33,6 @@ root@github:~$ ./status_check.sh
 [+] Foco de Aprendizado: C#, Python, Angular, Fullstack e Arquitetura de Software
 [+] Missão: Desenvolver soluções tecnológicas que impactem o mundo real.
 root@github:~$ _
+```
+! (https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGt5dnZjaTFmdWlhNnkxNXFzZGk5MW1sZnl3aGo5ZnllNWJuenEwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFvFtrhrmIFFe/giphy.gif)
 
