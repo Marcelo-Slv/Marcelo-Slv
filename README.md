@@ -1,12 +1,12 @@
 <div align="center">
   <!-- Efeito de Inicialização / Banner -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_SYSTEM_INITIALIZING...;%3E_LOADING_PROTOCOLS...;%3E_CONNECTION_ESTABLISHED.;%3E_HELLO,+WORLD." alt="Typing SVG" />
+  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_SYSTEM_INITIALIZING...;%3E_LOADING_PROTOCOLS...;%3E_CONNECTION_ESTABLISHED.;%3E_HELLO,+WORLD](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_SYSTEM_INITIALIZING...;%3E_LOADING_PROTOCOLS...;%3E_CONNECTION_ESTABLISHED.;%3E_HELLO,+WORLD)." alt="Typing SVG" />
   </a>
 
   <br>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=header&text=Welcome%20to%20my%20Cyber-Space&fontSize=30&fontAlignY=35&fontColor=ffffff&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=header&text=Welcome%20to%20my%20Cyber-Space&fontSize=30&fontAlignY=35&fontColor=ffffff&descAlignY=55&descAlign=50](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=header&text=Welcome%20to%20my%20Cyber-Space&fontSize=30&fontAlignY=35&fontColor=ffffff&descAlignY=55&descAlign=50)" alt="Header" />
 </div>
 
 <br>
