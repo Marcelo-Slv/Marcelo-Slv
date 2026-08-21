@@ -23,6 +23,10 @@ Atualmente operando os sistemas base a partir de São Paulo, Brasil. Sou estudan
 <br>
 <a href="https://www.instagram.com/marcelo_exped/"> Instagram </a>
 
+### Meu portifolio
+
+<a href="https://marcelo-slv.github.io/portf-lio/"> Prévia </a>
+
 
 ### 💻 Terminal de Objetivos Atuais
 
